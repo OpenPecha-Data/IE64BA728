@@ -1,0 +1,31 @@
+id: IE64BA728
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T18:05:58.643024'
+last_modified: '2022-06-19T18:05:58.643035'
+parser: null
+source_metadata:
+  title: Yamāntaka Series
+  language: en
+  description: 'Texts related to Yamāntaka (gshin rje gshed), the wrathful form of
+    Mañjuśrī:'
+  volume:
+    fB25B:
+      title: Daily Practice of Mañjuśrī Yamāntaka
+      base_file: fB25B.txt
+      order: 1
+      parent: Sādhanas
+    f64BB:
+      title: The Method to Pacify All Epidemics, Illnesses and Pandemics from the
+        Sixty Solitary Forms of Yamāntaka
+      base_file: f64BB.txt
+      order: 2
+      parent: Sādhanas
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
